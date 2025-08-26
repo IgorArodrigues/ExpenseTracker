@@ -184,11 +184,12 @@ Esta versão do sistema foi desenvolvida para funcionar como **aplicação local
 
 ### 📱 **Como Funciona**
 
-1. **Execução:** Execute o arquivo `.exe` na sua máquina
-2. **Servidor:** O sistema inicia um servidor web local
-3. **Acesso Local:** Acesse via navegador usando `http://127.0.0.1:5000`
-4. **Acesso na Rede:** Outros dispositivos na mesma rede podem acessar: `http://IP_DA_MAQUINA_HOST:5000`
-5. **Finalização:** Após 1 hora, o servidor é encerrado automaticamente
+1. **Download:** Baixe o repositorio ou arquivo `.exe` na sua máquina
+2. **Execução:** Execute o arquivo `.exe` na sua máquina
+3. **Servidor:** O sistema inicia um servidor web local
+4. **Acesso Local:** Acesse via navegador usando `http://127.0.0.1:5000`
+5. **Acesso na Rede:** Outros dispositivos na mesma rede podem acessar: `http://IP_DA_MAQUINA_HOST:5000`
+6. **Finalização:** Após 1 hora, o servidor é encerrado automaticamente
 
 ### 🌐 **Acesso na Rede Local**
 
@@ -232,5 +233,6 @@ Adaptador Ethernet:
 - **🐛 Issues:** Reporte bugs e sugestões no GitHub
 
 ---
+
 
 *Desenvolvido com ❤️ para facilitar o controle financeiro pessoal*
