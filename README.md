@@ -233,6 +233,8 @@ Adaptador Ethernet:
 - **🐛 Issues:** Reporte bugs e sugestões no GitHub
 
 ---
-
+Agradeço especialmente a @Ana Paula de Oliveira Enock, que me ajudou com a análise de dados, os gráficos e o modelo de ia regressão linear, 
+e ao @Vitor Galvão, pelo apoio fundamental em todo o front-end. A colaboração de vocês foi essencial. ❤️ 
 
 *Desenvolvido com ❤️ para facilitar o controle financeiro pessoal*
+
